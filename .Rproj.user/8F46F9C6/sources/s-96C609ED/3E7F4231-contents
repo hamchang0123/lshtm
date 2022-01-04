@@ -1,0 +1,21 @@
+---
+title: "paper1_1819_ee_q1"
+author: "Hannah Chang"
+date: "1/4/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+options()
+```
+
+```{r c}
+#rr
+(316 / 1977139) / (266 / 213557)
+
+```
+
